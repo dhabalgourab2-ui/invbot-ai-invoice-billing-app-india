@@ -71,7 +71,7 @@ Unlike traditional apps that require separate inventory and invoicing software, 
 - Vyapar vs Zoho Invoice vs INVBot Comparison  
 
 Read more on our blog:  
-👉 https://www.invbotforge.com/blog
+👉 https://www.invbotforge.com/blog/more-articles
 
 ---
 
